@@ -802,6 +802,12 @@ footer .ourservice{
     gap: 20px;
 }
 footer ion-icon{
+    display:block;
     margin-top: 19px;
     padding: 5px;
+    font-size: 25px;
+}
+footer ion-icon:hover{
+    font-size:30px;
+    transition: .5s;
 }
