@@ -802,8 +802,9 @@ footer .ourservice{
     display: flex;
     flex-direction: column;
     gap: 20px;
+    
 }
 footer ion-icon{
-    margin-top: 19px;
+    margin-top: 19px; 
     padding: 5px;
 }
