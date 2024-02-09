@@ -806,5 +806,11 @@ footer .ourservice{
 }
 footer ion-icon{
     margin-top: 19px; 
+    display: block;
     padding: 5px;
+    font-size: 30px;
+}
+footer ion-icon:hover{
+    transition: .5s;
+    font-size: 35px;
 }
