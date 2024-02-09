@@ -131,12 +131,14 @@ header {
   padding: 10px;
 }
 .main2 .box3 {
-  
   width: 45%;
 }
 .main2 .box3 img {
-  width: 100%;
-  border-radius: 2px;
+  width: 55%;
+  height: 90%;
+  margin-top: 20px;
+  margin-left: 120px;
+  border-radius: 5px;
 }
 .main2 .box4 {
   
@@ -307,7 +309,7 @@ header {
     border: 1px solid rgb(0, 0, 0);
     width: 25%;
     height: 100%;
-    border-radius: 20px;
+    border-radius: 10px 10px 10px 10px;
     box-shadow: 2px 2px 5px rgb(6, 6, 6);
 }
 .main3 .banner1 .food4 img{
