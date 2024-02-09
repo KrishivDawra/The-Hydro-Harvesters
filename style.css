@@ -131,14 +131,12 @@ header {
   padding: 10px;
 }
 .main2 .box3 {
+  
   width: 45%;
 }
 .main2 .box3 img {
-  width: 55%;
-  height: 90%;
-  margin-top: 20px;
-  margin-left: 120px;
-  border-radius: 5px;
+  width: 100%;
+  border-radius: 2px;
 }
 .main2 .box4 {
   
@@ -804,12 +802,6 @@ footer .ourservice{
     gap: 20px;
 }
 footer ion-icon{
-    display:block;
     margin-top: 19px;
     padding: 5px;
-    font-size: 25px;
-}
-footer ion-icon:hover{
-    font-size:30px;
-    transition: .5s;
 }
