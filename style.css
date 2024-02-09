@@ -131,12 +131,14 @@ header {
   padding: 10px;
 }
 .main2 .box3 {
-  
   width: 45%;
 }
 .main2 .box3 img {
-  width: 100%;
-  border-radius: 2px;
+  width: 55%;
+  height: 90%;
+  margin-top: 20px;
+  margin-left: 120px;
+  border-radius: 5px;
 }
 .main2 .box4 {
   
