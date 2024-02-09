@@ -131,14 +131,12 @@ header {
   padding: 10px;
 }
 .main2 .box3 {
+  
   width: 45%;
 }
 .main2 .box3 img {
-  width: 55%;
-  height: 90%;
-  margin-top: 20px;
-  margin-left: 120px;
-  border-radius: 5px;
+  width: 100%;
+  border-radius: 2px;
 }
 .main2 .box4 {
   
@@ -235,13 +233,13 @@ header {
     border: 1px solid rgb(0, 0, 0);
     width: 25%;
     height: 100%;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 20px;
     box-shadow: 2px 2px 5px rgb(6, 6, 6);
 }
 .main3 .banner1 .food2 img{
     width: 100%;
     height: 50%;
-    border-radius: 10px 10px 0px 0px;
+    
     border-bottom: 1px solid black;
 }
 .main3 .banner1 .food2 h2{
@@ -272,7 +270,7 @@ header {
     border: 1px solid rgb(0, 0, 0);
     width: 25%;
     height: 100%;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 20px;
     box-shadow: 2px 2px 5px rgb(6, 6, 6);
 }
 .main3 .banner1 .food3 img{
@@ -309,7 +307,7 @@ header {
     border: 1px solid rgb(0, 0, 0);
     width: 25%;
     height: 100%;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 20px;
     box-shadow: 2px 2px 5px rgb(6, 6, 6);
 }
 .main3 .banner1 .food4 img{
@@ -804,12 +802,6 @@ footer .ourservice{
     gap: 20px;
 }
 footer ion-icon{
-    display:block;
     margin-top: 19px;
     padding: 5px;
-    font-size: 25px;
-}
-footer ion-icon:hover{
-    font-size:30px;
-    transition: .5s;
 }
